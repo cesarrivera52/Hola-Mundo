@@ -1,2 +1,2 @@
 # Hola-Mundo
-Introducción al curso
+Introducción al curso IN2002B
